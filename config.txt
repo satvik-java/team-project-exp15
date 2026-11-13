@@ -1,1 +1,1 @@
-App Version: 1.1 - Auth Enabled
+App Version: 2.0 - Auth & Dashboard Enabled
